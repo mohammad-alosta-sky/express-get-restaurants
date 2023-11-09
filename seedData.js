@@ -18,7 +18,8 @@ const seedRestaurant = [
 
 const seedMenu = [
   {
-    title: 'Breakfast'
+    title: 'Breakfast',
+    restaurantId: 1
   },
   {
     title: 'Lunch'
